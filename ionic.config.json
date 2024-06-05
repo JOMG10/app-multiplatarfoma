@@ -1,0 +1,8 @@
+{
+  "name": "AppMultiplatarfoma",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "5f4be78a"
+}
